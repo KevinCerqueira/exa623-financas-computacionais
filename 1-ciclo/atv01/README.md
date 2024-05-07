@@ -14,7 +14,7 @@
 - kevingomes.uefs@gmail.com
 
 ## Diário (Swing Trade) - Símbolo escolhido: EURUSD Forex
-- Relatório da Estratégia no SQX: [abrir](forex/(EURUSD)%20SQX%20-%20Relatorio%20Estategia%20-%20Strategy%200.64142.pdf)
+- Relatório da Estratégia no SQX: [abrir](https://drive.google.com/file/d/1UoJUxhqdtcDYlAnyQK0larPsjtEZ6dQE/view?usp=drive_link)
 
 ### Sumário das Configurações no SQX
 
