@@ -35,15 +35,15 @@ O TP é estabelecido entre 50 a 400 pips, o que traduz-se em um ganho percentual
 - Código Fonte: [abrir](https://drive.google.com/file/d/1XCBIPbyaBm_YNniASZnFbtamlTkOPtAA/view?usp=drive_link)
 - Código Fonte importado e compilado no MetaEditor do MTQ5: ![Código Importado no MetaEditor](forex/(EURUSD)%20MTQ5%20-%20Codigo%20Importado%20no%20MetaEditor.png)
 
-#### Gráficos de Teste MTQ5
-- Aba Gráfico: ![Aba Gráfico](forex/(EURUSD)%20MTQ5%20-%20Grafico%20do%20Teste%20%20-%20Aba%20Grafico.png)
-- Entradas: ![Entradas](forex/(EURUSD)%20MTQ5%20-%20Grafico%20do%20Teste%20-%20Entradas.png)
-- Tempos: ![Tempos](forex/(EURUSD)%20MTQ5%20-%20Grafico%20do%20Teste%20-%20Tempos.png)
-
 #### Relatórios de Teste MTQ5
 - Relatório dos Testes em XLSX: [abrir](https://docs.google.com/spreadsheets/d/1EmXm_6UU4cYK28AssymDLVanGhQUk0q4/edit?usp=drive_link&ouid=104297309265572510054&rtpof=true&sd=true)
 - Tela principal: ![Tela Principal](forex/(EURUSD)%20MTQ5%20-%20Tela%20Principal.png)
 - Resumo Geral: ![Resumo Geral](forex/(EURUSD)%20MTQ5%20-%20Testes%20-%20Resumo%20Geral.png)
+
+#### Gráficos do Teste MTQ5
+- Aba Gráfico: ![Aba Gráfico](forex/(EURUSD)%20MTQ5%20-%20Grafico%20do%20Teste%20%20-%20Aba%20Grafico.png)
+- Entradas: ![Entradas](forex/(EURUSD)%20MTQ5%20-%20Grafico%20do%20Teste%20-%20Entradas.png)
+- Tempos: ![Tempos](forex/(EURUSD)%20MTQ5%20-%20Grafico%20do%20Teste%20-%20Tempos.png)
 
 #### Configurações no SQX
 - Arquivo de configurações (cfx): [Configuracoes cfx](https://drive.google.com/file/d/1MPgBxUPxrMpbXqIouMCkYXF-R0A2N9P8/view?usp=drive_link)
@@ -51,7 +51,6 @@ O TP é estabelecido entre 50 a 400 pips, o que traduz-se em um ganho percentual
 - Configurações SL e TP: ![Configurações SL e TP](forex/(EURUSD)%20SQX%20-%20Configuracoes%20SL%20e%20TP.png)
 
 ## Intraday (Day Trade) - Símbolo escolhido: BTCUSD Crypto
-
 - Relatório da Estratégia no SQX: [abrir]()
 
 ### Sumário das Configurações no SQX
@@ -73,15 +72,15 @@ O TP é estabelecido entre 50 a 400 pips, o que traduz-se em um ganho percentual
 - Código Fonte: [abrir]()
 - Código Fonte importado e compilado no MetaEditor do MTQ5: ![Código Importado no MetaEditor]()
 
-#### Gráficos de Teste MTQ5
-- Aba Gráfico: ![Aba Gráfico]()
-- Entradas: ![Entradas]()
-- Tempos: ![Tempos]()
-
 #### Relatórios de Teste MTQ5
 - Relatório dos Testes em XLSX: [abrir]()
 - Tela principal: ![Tela Principal]()
 - Resumo Geral: ![Resumo Geral]()
+
+#### Gráficos do Teste MTQ5
+- Aba Gráfico: ![Aba Gráfico]()
+- Entradas: ![Entradas]()
+- Tempos: ![Tempos]()
 
 #### Configurações no SQX
 - Arquivo de configurações (cfx): [Configuracoes cfx]()
