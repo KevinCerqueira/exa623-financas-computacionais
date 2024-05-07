@@ -32,7 +32,7 @@ O SL é configurado com uma faixa de 30 a 150 pips, correspondendo a uma perda p
 O TP é estabelecido entre 50 a 400 pips, o que traduz-se em um ganho percentual de 0,9% a 3% do valor da conta. A relação risco-recompensa é mantida em um limite de 100% a 300%, procurando assegurar que os lucros sejam significativamente maiores que os riscos assumidos, em linha com as expectativas de ganhos em operações de swing trade, que muitas vezes enfrentam maiores incertezas e períodos de espera.
 
 ### Arquivos
-- Arquivo de configurações (cfx): [Configuracoes cfx](https://drive.google.com/file/d/1MPgBxUPxrMpbXqIouMCkYXF-R0A2N9P8/view?usp=drive_link)
+- Arquivo de configurações (cfx): [abrir](https://drive.google.com/file/d/1MPgBxUPxrMpbXqIouMCkYXF-R0A2N9P8/view?usp=drive_link)
 - Código Fonte: [abrir](https://drive.google.com/file/d/1XCBIPbyaBm_YNniASZnFbtamlTkOPtAA/view?usp=drive_link)
 - Código Fonte importado e compilado no MetaEditor do MTQ5: ![Código Importado no MetaEditor](forex/(EURUSD)%20MTQ5%20-%20Codigo%20Importado%20no%20MetaEditor.png)
 
