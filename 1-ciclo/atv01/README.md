@@ -32,7 +32,7 @@ O TP é estabelecido entre 50 a 400 pips, o que traduz-se em um ganho percentual
 ### Arquivos e Referências
 
 #### Códigos Fonte
-- Código Fonte: [acesso](https://drive.google.com/file/d/1XCBIPbyaBm_YNniASZnFbtamlTkOPtAA/view?usp=drive_link)
+- Código Fonte: [abrir](https://drive.google.com/file/d/1XCBIPbyaBm_YNniASZnFbtamlTkOPtAA/view?usp=drive_link)
 - Código Fonte importado e compilado no MetaEditor do MTQ5: ![Código Importado no MetaEditor](forex/(EURUSD)%20MTQ5%20-%20Codigo%20Importado%20no%20MetaEditor.png)
 
 #### Gráficos de Teste MTQ5
