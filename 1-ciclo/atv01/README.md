@@ -13,6 +13,8 @@
 - aurelionadjabarreto@gmail.com
 - kevingomes.uefs@gmail.com
 
+#### Todos os arquivos que geramos e foram utilizados nesse documento estão no drive: [abrir](https://drive.google.com/drive/folders/1NqI2BnjuykKXhf3ce2kiEnVFhyYdnZ-u?usp=drive_link)
+
 ## Diário (Swing Trade) - Símbolo escolhido: EURUSD Forex
 - Relatório da Estratégia no SQX: [abrir](https://drive.google.com/file/d/1UoJUxhqdtcDYlAnyQK0larPsjtEZ6dQE/view?usp=drive_link)
 
