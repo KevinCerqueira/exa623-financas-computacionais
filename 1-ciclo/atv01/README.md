@@ -46,14 +46,14 @@ O TP é estabelecido entre 50 a 400 pips, o que traduz-se em um ganho percentual
 - Resumo Geral: ![Resumo Geral](forex/(EURUSD)%20MTQ5%20-%20Testes%20-%20Resumo%20Geral.png)
 
 ##### Gráficos do Teste MTQ5
-- Aba Gráfico: ![Aba Gráfico](forex/(EURUSD)%20MTQ5%20-%20Grafico%20do%20Teste%20%20-%20Aba%20Grafico.png)
+- Aba Gráfico: ![Aba Gráfico](forex/(EURUSD)%20MTQ5%20-%20Grafico%20do%20Teste%20-%20Aba%20Grafico.png)
 - Entradas: ![Entradas](forex/(EURUSD)%20MTQ5%20-%20Grafico%20do%20Teste%20-%20Entradas.png)
 - Tempos: ![Tempos](forex/(EURUSD)%20MTQ5%20-%20Grafico%20do%20Teste%20-%20Tempos.png)
 
 <!-- ############################################################################## -->
 
 ## Intraday (Day Trade) - Símbolo escolhido: BTCUSD Crypto
-- Relatório da Estratégia no SQX: [abrir]()
+- Relatório da Estratégia no SQX: [abrir](https://docs.google.com/spreadsheets/d/1776oM_xh7pho-Gap0OaiYmhkZmzHdRP4/edit?usp=drive_link&ouid=104297309265572510054&rtpof=true&sd=true)
 
 ### Sumário das Configurações no SQX
 
@@ -82,12 +82,12 @@ Com uma variação de 10 a 50 pips/ticks, equivalendo a um ganho percentual de 0
 
 #### Testes no MTQ5
 ##### Relatórios de Teste MTQ5
-- Relatório dos Testes em XLSX: [abrir]()
+- Relatório dos Testes em XLSX: [abrir](https://drive.google.com/file/d/1bYgUNhp8WTZH4Mce5QYvMaMHYbE6m6DO/view?usp=drive_link)
 - Tela principal: ![Tela Principal](crypto/(BTCUSD)%20MTQ5%20-%20Tela%20Principal.png)
 - Resumo Geral: ![Resumo Geral](crypto/(BTCUSD)%20MTQ5%20-%20Testes%20-%20Resumo%20Geral.png)
 
 ##### Gráficos do Teste MTQ5
-- Aba Gráfico: ![Aba Gráfico](crypto/(BTCUSD)%20MTQ5%20-%20Grafico%20do%20Teste%20%20-%20Aba%20Grafico.png)
+- Aba Gráfico: ![Aba Gráfico](crypto/(BTCUSD)%20MTQ5%20-%20Grafico%20do%20Teste%20-%20Aba%20Grafico.png)
 - Entradas: ![Entradas](crypto/(BTCUSD)%20MTQ5%20-%20Grafico%20do%20Teste%20-%20Entradas.png)
 - Tempos: ![Tempos](crypto/(BTCUSD)%20MTQ5%20-%20Grafico%20do%20Teste%20-%20Tempos.png)
 
