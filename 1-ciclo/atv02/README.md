@@ -1,5 +1,5 @@
 # EXA623 - FINANÇAS COMPUTACIONAIS
-## Atividade 01 – Criação de EA’s e instalação no MT5
+## Atividade 02 – Testes de Robustez
 
 **Alunos:**
 - Aurelio Barreto (aurelionadjabarreto@gmail.com)
